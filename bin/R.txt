@@ -1,4 +1,0 @@
-int string error_no_session 0x7f020003
-int string error_ramp_command_failed 0x7f020002
-int string error_session_ended 0x7f020001
-int string error_start_session_failed 0x7f020000
